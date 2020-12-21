@@ -1,10 +1,10 @@
-package com.example.myshopapp.Utils
+package com.example.myshopapp.utils
 
 import android.content.Context
 import android.content.Intent
-import com.example.myshopapp.View.CardActivity
-import com.example.myshopapp.View.HomeActivity
-import com.example.myshopapp.View.ProfileActivity
+import com.example.myshopapp.view.CardActivity
+import com.example.myshopapp.view.HomeActivity
+import com.example.myshopapp.view.ProfileActivity
 import com.example.myshopapp.R
 import com.google.android.material.bottomnavigation.BottomNavigationView
 

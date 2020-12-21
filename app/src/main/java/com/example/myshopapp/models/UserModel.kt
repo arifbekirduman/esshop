@@ -1,6 +1,9 @@
-package com.example.myshopapp.Models
+package com.example.myshopapp.models
+
+import kotlin.String
 
 class UserModel {
+
     var UserName: String? = null
     var UserSurname: String? = null
     var EMail: String? = null

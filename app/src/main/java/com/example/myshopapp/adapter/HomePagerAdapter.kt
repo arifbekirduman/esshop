@@ -1,11 +1,11 @@
-package com.example.myshopapp.Adapter
+package com.example.myshopapp.adapter
 
 import android.content.Context
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentActivity
 import androidx.viewpager2.adapter.FragmentStateAdapter
-import com.example.myshopapp.CardFragment.MensFashionFragment
-import com.example.myshopapp.CardFragment.WomensFashionFragment
+import com.example.myshopapp.cardfragment.MensFashionFragment
+import com.example.myshopapp.cardfragment.WomensFashionFragment
 
 class HomePagerAdapter(fragmentActivity: FragmentActivity) :
     FragmentStateAdapter(fragmentActivity) {
